@@ -7,5 +7,5 @@ Prerequisites:
 - hdf5
 - vtk
 
-> On Arch Linux
+> On Arch Linux: 
 > ```sudo pacman -S opencv hdf5 vtk```
