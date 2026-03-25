@@ -8,6 +8,4 @@ Prerequisites:
 - vtk
 
 > On Arch Linux
-> ```
-sudo pacman -S opencv hdf5 vtk
-> ```
+> ```sudo pacman -S opencv hdf5 vtk```
